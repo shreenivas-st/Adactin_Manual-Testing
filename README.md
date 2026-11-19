@@ -1,0 +1,1 @@
+Adactin is a web application that is used for hotel booking and reservation. The system helps with hotel search. It checks room availability. It has pricing. It applies discounts. It handles payments. It creates invoices. It also has cancellation and refund processes. The system supports searching in cities.
